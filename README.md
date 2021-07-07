@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davifreitas0308
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Automation
-- 💞️ I’m looking to collaborate on ..
+- 💞️ I’m looking to collaborate on automated tests
 - 📫 How to reach me ...
 
 <!---
