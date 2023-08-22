@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Davifreitas0308
-- 👀 I’m interested in Java and Gherkin
-- 🌱 I’m currently learning Automation
+- 👀 I’m interested in Java, Robot, Cypress and Gherkin
+- 🌱 I’m always learning new things
 - 💞️ I’m looking to collaborate on automated tests and software quality
 - 📫 How to reach me ...
 
